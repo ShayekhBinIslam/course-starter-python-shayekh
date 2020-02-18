@@ -1,5 +1,5 @@
 # Online course starter: Python
-
+Course deployed at [netlify](https://mlcourse.netlify.com/)
 This is a starter repo based on the
 [course framework](https://github.com/ines/spacy-course) I developed for my
 [spaCy course](https://course.spacy.io). The front-end is powered by
