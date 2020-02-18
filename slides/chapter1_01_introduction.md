@@ -30,7 +30,7 @@ Hello world
 
 <img src="profile.jpg" alt="This image is in /static" width="25%">
 
-Notes: We remember PET. P - performance, E - experience, T - task. If the performance is getting better with experience with respect to a task.
+Notes: We remember PET. P - performance, E - experience, T - task. If the performance is getting better with experience with respect to a task - Tom Mitchell.
 
 ---
 
