@@ -1,8 +1,7 @@
 ---
 title: 'Chapter 1: Getting started'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
+  'In this chapter, we will learn the history of Machine Learning and its background.'
 prev: null
 next: /chapter2
 type: chapter

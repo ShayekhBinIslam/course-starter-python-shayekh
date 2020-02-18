@@ -2,14 +2,18 @@
 type: slides
 ---
 
-# Introduction
+# Machine Learning
 
-Notes: Text at the end of a slide prefixed like this will be displayed as
+
+Notes: 
+Machine Learning is a branch of artificial intelligence.
+
+Text at the end of a slide prefixed like this will be displayed as
 speaker notes on the side. Slides can be separated with a divider: ---.
 
 ---
 
-# This is a slide
+# Definition
 
 ```python
 # Print something
@@ -26,7 +30,7 @@ Hello world
 
 <img src="profile.jpg" alt="This image is in /static" width="25%">
 
-Notes: Some more notes go here
+Notes: We remember PET. P - performance, E - experience, T - task. If the performance is getting better with experience with respect to a task.
 
 ---
 
